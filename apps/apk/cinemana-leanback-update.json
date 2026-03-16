@@ -1,22 +1,14 @@
 {
-  "enabled": true,
-  "show_after": "2025-03-20",
-  "force_update": false,
-  "title": "Update Available",
-  "message": "A new version is ready. Please update for best experience.",
-  "link_text": "See details",
-  "link_url": "https://t.me/android_appsx",
-  "buttons": [
-    {
-      "text": "Update Now",
-      "action": "url",
-      "target": "https://t.me/android_appsx",
-      "style": "primary"
-    },
-    {
-      "text": "Later",
-      "action": "dismiss",
-      "style": "secondary"
-    }
-  ]
+  "versionCode": 1,
+  "versionName": "1.1",
+  "apkSize": 9,
+  "enabledDark": true,
+  "forceUp": true,
+  "whatIsNew": [
+    "Performance improved and some bugs fixed.",
+    "Android 14 support",
+    "Loading speed improved",
+    "Notification display issues fixed"
+  ],
+  "apkUrl": ""
 }
